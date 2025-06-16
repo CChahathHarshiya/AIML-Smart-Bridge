@@ -1,6 +1,11 @@
 # 🥕🍎 Fruit & Vegetable Recognition System using TensorFlow & Streamlit
 
 This is a deep learning-based web application that predicts the **type of fruit or vegetable** from an uploaded image and also randomly provides its **freshness status** like **Fresh**, **Medium**, or **Dull**. The app is built using **TensorFlow**, **NumPy**, and **Streamlit**.
+## DEMO VIDEO
+
+
+https://github.com/user-attachments/assets/ac8315a4-3d22-4a88-b320-81bbe1e57742
+
 
 ---
 
